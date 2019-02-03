@@ -1,6 +1,6 @@
 import React, {Component} from 'react'
 import {bindActionCreators} from 'redux'
-import {Compare, ProductList} from '../../components'
+import {Compare, ProductList, Header} from '../../components'
 import * as productActions from '../../actions/product'
 import {connect} from 'react-redux'
 
